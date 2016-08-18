@@ -1,0 +1,12 @@
+C:\Users\bbk\Desktop\nwebcrawler-76924\bin\NWebCrawlerLib.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\bin\NWebCrawlerLib.pdb
+C:\Users\bbk\Desktop\nwebcrawler-76924\bin\zh-CN\NWebCrawlerLib.resources.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\bin\en-US\NWebCrawlerLib.resources.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.csprojResolveAssemblyReference.cache
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.Properties.Resource.zh-CN.resources
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.Properties.Resource.en-US.resources
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.csproj.GenerateResource.Cache
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\zh-CN\NWebCrawlerLib.resources.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\en-US\NWebCrawlerLib.resources.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.dll
+C:\Users\bbk\Desktop\nwebcrawler-76924\src\NWebCrawlerLib\obj\Debug\NWebCrawlerLib.pdb
